@@ -53,9 +53,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L25)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L30)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L29)
+- CHANGE OWNER NUMBER [Here](https://github.com/N17R0-HACKERS/CheemsBot-MD/blob/master/config/config.json#L25)
+- CHANGE OWNER NAME [Here](https://github.com/N17R0-HACKERS/CheemsBot-MD/blob/master/config/config.json#L30)
+- CHANGE BOT NAME [Here](https://github.com/N17R0-HACKERS/CheemsBot-MD/blob/master/config/config.json#L29)
 
 ## ` BUILDPACKS`
 
@@ -77,7 +77,7 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD.git
+git clone https://github.com/N17R0-HACKERS/CheemsBot-MD.git
 cd CheemsBot-MD
 npm start
 ```
@@ -93,7 +93,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD
+git clone https://github.com/N17R0-HACKERS/CheemsBot-MD
 cd CheemsBot-MD
 npm start
 ```
@@ -105,7 +105,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD
+git clone https://github.com/N17R0-HACKERS/CheemsBot-MD
 cd CheemsBot-MD
 npm start
 ```
