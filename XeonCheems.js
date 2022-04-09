@@ -590,7 +590,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
 	    case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                XeonBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/ec04ff6fa4dd6cfc2d134.jpg' }, caption: `*Hi bro ${m.pushName}*\n\n Bot Rental Price\n⭔ 250INR Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/918591220868(Owner)\n\nDonate Me : \n\n⭔ Fampay : https://telegra.ph/Fampay-04-08\n` }, { quoted: m })
+                XeonBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/ec04ff6fa4dd6cfc2d134.jpg' }, caption: `*Hi bro ${m.pushName}*\n\n Bot Rental Price\n⭔ 250INR Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/918591220868 (Owner)\n\nDonate Me : \n\n⭔ Fampay : https://telegra.ph/Fampay-04-08\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
