@@ -104,7 +104,7 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
         }
         
         const replay = (teks) => {
-            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/cheemspic.jpg`),"sourceUrl": "https://youtu.be/imFIX-Wrt3s"}}}, { quoted: m})
+            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/cheemspic.jpg`),"sourceUrl": "https://www.instagram.com/itsmerehan__/"}}}, { quoted: m})
         }
 try {
             let isNumber = x => typeof x === 'number' && !isNaN(x)
@@ -2446,8 +2446,8 @@ Please Select Button Below
 `,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                             	urlButton: {
@@ -2659,7 +2659,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2696,7 +2696,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2727,7 +2727,7 @@ case 'randommenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2758,8 +2758,8 @@ case 'funmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'INSTAGRAM📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2798,8 +2798,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'INSTAGRAM📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2832,8 +2832,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2890,8 +2890,8 @@ case 'horoscopemenukcodk': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2928,8 +2928,8 @@ case 'convertmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2968,8 +2968,8 @@ case 'nocategorymenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3005,8 +3005,8 @@ case 'databasemenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3037,8 +3037,8 @@ case 'anonymouschatmenu': {
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3069,8 +3069,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3106,8 +3106,8 @@ break
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3247,8 +3247,8 @@ break
                             hydratedFooterText: `Cheems Bot-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    displayText: 'Instagram📍',
+                                    url: 'https://www.instagram.com/itsmerehan__/'
                                 }
                             }, {
                                 quickReplyButton: {
